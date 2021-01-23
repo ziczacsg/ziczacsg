@@ -3,7 +3,7 @@
 ## Vo Dac Bao - Passionate Web Developer, Automation Test
 
 - Open and friendly.
-- Love to create products code high quality.
+- Like to create products with high code quality.
 - Enjoy working with Laravel, Vue.js, Postgresql, .Net Core ❤
 
 ### Working
