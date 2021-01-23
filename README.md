@@ -19,4 +19,4 @@
 
 - Email: vodacbao@gmail.com
 - Skype: vo.dac.bao
-- Linkedin: [Vo Dac Bao](www.linkedin.com/in/vo-dac-bao-a79495b7) 
+- Linkedin: [Vo Dac Bao](https://www.linkedin.com/in/vo-dac-bao-a79495b7) 
