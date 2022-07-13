@@ -1,10 +1,10 @@
 
 
-## Vo Dac Bao - Passionate Web Developer, Automation Test
+## Vo Dac Bao - Passionate Web Developer, Web3
 
 - Open and friendly.
 - Like to create products with high code quality.
-- Enjoy working with Laravel, Vue.js, Nuxt.js, Postgresql ❤
+- Enjoy working with Laravel, Vue.js, Nuxt.js, Postgresql, Web3 develop ❤
 
 ### Working
 - Working fulltime at Japan Company in Ho Chi Minh City
