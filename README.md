@@ -4,7 +4,7 @@
 
 - Open and friendly.
 - Like to create products with high code quality.
-- Enjoy working with Laravel, Vue.js, Postgresql, .Net Core ❤
+- Enjoy working with Laravel, Vue.js, Nuxt.js, Postgresql ❤
 
 ### Working
 - Working fulltime at Japan Company in Ho Chi Minh City
