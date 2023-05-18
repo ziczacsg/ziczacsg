@@ -9,7 +9,7 @@
 ### Working
 - Working fulltime at Japan Company in Ho Chi Minh City
 - Manage KingbeeSoft's Team
-- Founder of [Quản Lý Nhà Trọ](https://quanlynhatro.net/) Application , [ITDict](http://itdict.kingbeesoft.com/) (Japanese dictionary for Information Technology)
+- Founder of [Quản Lý Nhà Trọ](https://quanlynhatro.net/) Application
 
 ### Blogs
 
