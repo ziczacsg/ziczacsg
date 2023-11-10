@@ -1,6 +1,6 @@
 
 
-## Vo Dac Bao - Passionate Web Developer
+## Vo Dac Bao - Web Developer
 
 - Open and friendly.
 - Like to create products with high code quality.
