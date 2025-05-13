@@ -4,7 +4,7 @@
 
 - Open and friendly.
 - Like to create products with high code quality.
-- Enjoy working with Laravel, Nuxt.js, Ms SQL, Linux, Docker, Jenskin develop ❤
+- Enjoy working with PHP, Laravel, Ms SQL Server, Linux, Docker, Jenskin, AWS develop ❤
 
 ### Working
 
