@@ -2,7 +2,7 @@
 
 * Open-minded, friendly, and always eager to learn and share.
 * Passionate about building clean, maintainable, and high-quality backend systems.
-* Enjoy working with PHP, Laravel, SQL Server, Linux, Docker, Jenkins, and AWS — nothing beats the joy of seeing everything run smoothly ❤
+* Enjoy working with Vue.js, PHP, Laravel, SQL Server, Linux, Docker, Jenkins, and AWS — nothing beats the joy of seeing everything run smoothly ❤
 
 ### 💼 Current Work
 
